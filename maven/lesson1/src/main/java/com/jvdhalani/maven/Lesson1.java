@@ -1,4 +1,4 @@
-package com.smarttech_its.maven;
+package com.jvdhalani.maven;
 
 /**
  * Hello world!
